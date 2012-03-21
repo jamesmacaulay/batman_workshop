@@ -22,6 +22,8 @@ end
 
 gem 'jquery-rails'
 
+gem 'batman-rails', :git => 'git://github.com/Shopify/batman-rails.git', :ref => 'latest-batman'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
